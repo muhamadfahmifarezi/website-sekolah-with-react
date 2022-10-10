@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/website-sekolah-with-react/static/css/main.a102879e.css",
+    "main.js": "/website-sekolah-with-react/static/js/main.a81f135f.js",
+    "static/js/787.a40fe38a.chunk.js": "/website-sekolah-with-react/static/js/787.a40fe38a.chunk.js",
+    "static/media/hero3.jpg": "/website-sekolah-with-react/static/media/hero3.1145b803fddd49194b24.jpg",
+    "static/media/tkj.png": "/website-sekolah-with-react/static/media/tkj.252b8d47b883d56c3047.png",
+    "static/media/kegiatan2.jpg": "/website-sekolah-with-react/static/media/kegiatan2.35ce30055dc173798db4.jpg",
+    "static/media/kegiatan3.png": "/website-sekolah-with-react/static/media/kegiatan3.de7dece25eaa3686b957.png",
+    "static/media/hero2.jpg": "/website-sekolah-with-react/static/media/hero2.6b0e12f22bdb9a130587.jpg",
+    "static/media/akuntansi.jpg": "/website-sekolah-with-react/static/media/akuntansi.49ff1cffd159b075ac5b.jpg",
+    "static/media/tsm.jpg": "/website-sekolah-with-react/static/media/tsm.19af033ddb2c66540e1c.jpg",
+    "static/media/hero.jpg": "/website-sekolah-with-react/static/media/hero.82167739bdb55c03e464.jpg",
+    "static/media/kegiatan1.jfif": "/website-sekolah-with-react/static/media/kegiatan1.64d428c6ce00ac44b502.jfif",
+    "static/media/logo.svg": "/website-sekolah-with-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/website-sekolah-with-react/index.html",
+    "main.a102879e.css.map": "/website-sekolah-with-react/static/css/main.a102879e.css.map",
+    "main.a81f135f.js.map": "/website-sekolah-with-react/static/js/main.a81f135f.js.map",
+    "787.a40fe38a.chunk.js.map": "/website-sekolah-with-react/static/js/787.a40fe38a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.a81f135f.js"
+  ]
+}
